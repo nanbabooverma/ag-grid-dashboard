@@ -3,7 +3,6 @@ const Header = () => {
     <header className="header">
       <div className="brand">
         <div className="brand-logo">NB</div>
-
         <div>
           <h1>Customer Data</h1>
           <span>Analytics Platform</span>

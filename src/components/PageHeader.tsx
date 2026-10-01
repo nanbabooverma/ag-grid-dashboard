@@ -5,9 +5,9 @@ const PageHeader = () => {
     <section className="page-heading">
       <div>
         <p className="eyebrow">OVERVIEW</p>
-        <h2>Customer Dashboard</h2>
+        <h2>Employee Dashboard</h2>
         <p className="description">
-          Monitor customer activity, revenue and order performance from one
+          Monitor employee activity, revenue and order performance from one
           place.
         </p>
       </div>

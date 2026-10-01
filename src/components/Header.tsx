@@ -5,7 +5,7 @@ const Header = () => {
         <div className="brand-logo">NB</div>
 
         <div>
-          <h1>Customer Data</h1>
+          <h1>Employee Data</h1>
           <span>Analytics Platform</span>
         </div>
       </div>

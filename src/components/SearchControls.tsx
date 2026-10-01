@@ -8,7 +8,7 @@ interface SearchControlsprops {
 
 const SearchControls = ({ value, onChange, onReset }: SearchControlsprops) => {
   return (
-    <div className="table-actions">
+    <div className="search-container">
       <div className="search-box">
         <span className="search-icon">
           <Search size={18} color="#929baa" width={18} />
